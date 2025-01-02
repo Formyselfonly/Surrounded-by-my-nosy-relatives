@@ -13,8 +13,8 @@ If commercialized or used for profit, the author's consent must be obtained.
 
 ```md
 #Title: 完蛋!我被七大姑八大姨包围了
-#Author:Kerry Zheng(Shijie Zheng)
-#Gmail of Author:z1597006376@gmail.com
+#Author: Kerry Zheng(Shijie Zheng)
+#Gmail of Author: z1597006376@gmail.com
 
 **各位xiao子们好，欢迎来到拜年之巅，**
 
